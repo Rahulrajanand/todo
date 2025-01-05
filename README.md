@@ -18,6 +18,17 @@ A **Todo Application** built with modern web technologies. This app helps users 
 git clone <repository-url>
 cd todo
 
+```
 ### 2.Install dependencies:
 ```bash
 npm install
+
+```
+### 3.Start the development server:
+```bash
+npm run dev
+```
+
+
+
+
