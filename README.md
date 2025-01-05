@@ -11,7 +11,7 @@ A **Todo Application** built with modern web technologies. This app helps users 
 -  Built with **Vite** for fast development and optimized builds.
 
 
-##Getting Started
+Getting Started
 
 ### 1.Clone the repository:
 ```bash
