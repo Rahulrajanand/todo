@@ -1,4 +1,4 @@
-Todo App
+
 This is a Todo Application built with modern web technologies. It helps users manage tasks efficiently with a clean, responsive interface.
 
 Features
